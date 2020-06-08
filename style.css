@@ -1,0 +1,14 @@
+img {
+
+    margin-top: 100px;
+    height: 100px;
+    width: 70pX;
+}
+.container {
+    width: 600px;
+    height: 1000px;
+    background-image: url(./images/table.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
